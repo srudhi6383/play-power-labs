@@ -21,9 +21,11 @@ The Timezone Converter Tool is a web application that enables users to convert c
 - React Datepicker
 - Dnd-Kit
 
-## Screenshot
+## Screenshot 🎨
+- Light Mode
 ![alt text](<src/assets/screen-2.png>)
 
+- Dark Mode
 ![alt text](<src/assets/screen-3.png>)
 
-![alt text](<src/assets/screen-1.png>)
+
